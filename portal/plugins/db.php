@@ -1,5 +1,5 @@
 <?php
-define("SERVER","localhost");
+define("SERVER","127.0.0.1");
 define("USER","root");
 define("PASSWORD","jeehMedia@2021");
 define("DATABASE","blachar");
